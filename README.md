@@ -49,8 +49,8 @@
 ​
 # Code written in pycharm in three files
 - **app.py** : main file
-- **dataset.py**: for generatig dataset
-- **functions.py**: user defined functions as per required
+- **preprocessor.py**: for generatig dataset
+- **helper.py**: user defined functions as per required
 ​
 # How to use:
 1. To use this webapp first you whatapp chat txt file.
