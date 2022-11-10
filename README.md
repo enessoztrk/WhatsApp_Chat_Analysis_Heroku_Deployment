@@ -15,7 +15,6 @@
     - Total Messsages, including messages, missed calls, media, links
     - Total Words of Messages, 
     - Total Links Shared
-    - Total Missed Calls
 2. Bar chart of no messages sent by members
 3. Bar chart of no messages sent by members with mean line
 4. Pie chart with no if messages sent in %
@@ -79,5 +78,3 @@
 ![what3](https://github.com/enessoztrk/WhatsApp_Chat_Analysis_Heroku_Deployment/blob/main/img/7.png?raw=true)
 ![what3](https://github.com/enessoztrk/WhatsApp_Chat_Analysis_Heroku_Deployment/blob/main/img/8.png?raw=true)
 ![what3](https://github.com/enessoztrk/WhatsApp_Chat_Analysis_Heroku_Deployment/blob/main/img/9.png?raw=true)
-
- 
