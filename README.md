@@ -14,7 +14,6 @@
     - Total Members in chat, only those who had sent atleat one message
     - Total Messsages, including messages, missed calls, media, links
     - Total Words of Messages, 
-    - Total Media File Shared
     - Total Links Shared
     - Total Missed Calls
 2. Bar chart of no messages sent by members
